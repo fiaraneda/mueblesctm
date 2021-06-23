@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    width: 100%;
+}
+
+.encabezado{
+    height: 200px;
+    background-color: red;
+}
+
+.div-titulo{
+    height: 200px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.titulos{
+    width: auto;
+    padding: 0;
+}
